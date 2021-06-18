@@ -2,7 +2,7 @@
 
 
 file_path = 'C:/Users/chris/Downloads/singlecell_result/final_Result'  
-경로를 해당 부분에서 수정하고, raw data도 해당 경로에 다운로드 받아야 스크립트가 돌아갑니다.  
+경로를 위의 코드에서 수정하고, raw data도 해당 경로에 다운로드 받아야 스크립트가 돌아갑니다.  
 
 <final_10samples_PAGA_cor.ipynb>  
 Result 1) HNSCC 에서는 Epithelial cell의 p-EMT program이 발현이 나타난다 : Tajectory inference결과를 볼 수 있습니다.  
