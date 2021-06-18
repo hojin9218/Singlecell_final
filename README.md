@@ -25,7 +25,7 @@ cell-linker를 위해서는 결과로 나온 파일에서 약간의 수정이 �
 meta data에서는 header를 지워주고 tpm파일에서는 맨 앞의 tab을 지워주면    
 cell-linker 웹 페이지에 업로드 할 수 있는 상태가 됩니다.   
 
-- 레포트에 다 올리지 못한 데이터들은 메일과 github에 첨부하겠습니다.
+- cell-linker결과를 레포트에 모두 올릴 수 없어서 첨부하겠습니다.
 
 - raw data 파일은 용량이 커서 올릴 수 가 없습니다.  
 아래의 사이트에서 Supplementary file를 보시면 다운로드 받을 수 있습니다.  
