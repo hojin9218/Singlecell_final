@@ -2,8 +2,9 @@
 
 
 file_path = 'C:/Users/chris/Downloads/singlecell_result/final_Result'  
-경로를 위의 코드에서 수정하고, raw data도 해당 경로에 다운로드 받아야 스크립트가 돌아갑니다.
-다운로드 받으신 raw data 파일 이름은 제가 설정했던 것으로 되어 있어서 수정해 주어야 합니다! 
+경로를 위의 코드에서 수정하고, raw data도 해당 경로에 다운로드 받아야 스크립트가 돌아갑니다.  
+메일에서 다운로드 받으신 raw data파일을 압축해제하여 사용하여 해당 폴더에 넣어주시면 됩니다.   
+
 
 <final_10samples_PAGA_cor.ipynb>  
 Result 1) HNSCC 에서는 Epithelial cell의 p-EMT program이 발현이 나타난다 : Tajectory inference결과를 볼 수 있습니다.  
@@ -27,7 +28,3 @@ meta data에서는 header를 지워주고 tpm파일에서는 맨 앞의 tab을 �
 cell-linker 웹 페이지에 업로드 할 수 있는 상태가 됩니다.   
 
 - cell-linker결과를 레포트에 모두 올릴 수 없어서 첨부하겠습니다.
-
-- raw data 파일은 용량이 커서 올릴 수 가 없습니다.  
-아래의 사이트에서 Supplementary file를 보시면 다운로드 받을 수 있습니다.  
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103322
