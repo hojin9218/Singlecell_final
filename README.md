@@ -1,7 +1,7 @@
 # Singlecell_final
 
 
-file_path = 'C:/Users/chris/Downloads/singlecell_result/final_Result'
+file_path = 'C:/Users/chris/Downloads/singlecell_result/final_Result'\n
 경로를 해당 부분에서 수정하고, raw data도 해당 경로에 넣어줘야 스크립트가 돌아갑니다.
 
 <final_10samples_PAGA_cor.ipynb>
